@@ -66,7 +66,7 @@ define('NONCE_SALT',       '!`DiA#nXT0*5cOX=(2]lZGgmeOoLpO&]?C6RasIo|tp@E1f<.*3C
 $table_prefix  = 'wp_';
 
 /**
- * For developers: WordPress debugging mode.
+ * For developers: WordPress debugging mode. 
  *
  * Change this to true to enable the display of notices during development.
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
@@ -87,3 +87,4 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+/* Wp-config   */
